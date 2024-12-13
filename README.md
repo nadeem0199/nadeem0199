@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Full Stack Developer | Laravel | CodeIgniter | Vue.js | AWS | Google Cloud
 
-I am a Full Stack Developer with extensive experience in building and deploying web applications across diverse industries. My expertise spans **PHP frameworks** (Laravel, CodeIgniter) and **JavaScript libraries** (Vue.js), focusing on **end-to-end development** from conceptualization to production. I have successfully delivered full-featured applications like **ticket booking systems**, **CRM**, **ERP solutions**, and **E-commerce platforms**.
+I am a skilled Backend-Focused Full Stack Developer with extensive experience in building and deploying web applications across diverse industries. My expertise spans **PHP frameworks** (Laravel, CodeIgniter) and **JavaScript libraries** (Vue.js), focusing on **end-to-end development** from conceptualization to production. I have successfully delivered full-featured applications like **ticket booking systems**, **CRM**, **ERP solutions**, and **E-commerce platforms**.
 
 ### Key Skills:
 - **Backend Development**: Strong expertise in **PHP** (Laravel, CodeIgniter) and **MySQL** databases.
-- **Frontend Development**: Proficient in **Vue.js**, **JavaScript**, **CSS**, **HTML**, and **Bootstrap** to create responsive and dynamic user interfaces.
+- **Frontend Development**: Proficient in **Vue.js**, **JavaScript**, **CSS(basic)**, **HTML**, and **Bootstrap** to create responsive and dynamic user interfaces.
 - **Version Control**: Expert in using **GIT** with platforms such as **GitHub**, **GitLab**, and **Bitbucket** for collaborative development and version management.
 - **API Integration**: Extensive experience integrating **3rd party APIs**, ensuring seamless functionality in applications.
 - **DevOps & Server Management**: Hands-on experience with **Linux server management**, using tools like **cPanel**, **Plesk**, and cloud platforms like **AWS** and **Google Cloud** to manage hosting environments.
