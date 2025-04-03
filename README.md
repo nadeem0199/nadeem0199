@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Full Stack Developer | Laravel | CodeIgniter | Vue.js | AWS | Google Cloud
+## Full Stack Developer | PHP | Laravel | CodeIgniter | Vue.js | AWS | Google Cloud
 
 I am a skilled Backend-Focused Full Stack Developer with extensive experience in building and deploying web applications across diverse industries. My expertise spans **PHP frameworks** (Laravel, CodeIgniter) and **JavaScript libraries** (Vue.js), focusing on **end-to-end development** from conceptualization to production. I have successfully delivered full-featured applications like **ticket booking systems**, **CRM**, **ERP solutions**, and **E-commerce platforms**.
 
