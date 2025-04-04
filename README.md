@@ -42,16 +42,6 @@ Developed a platform for buying and selling, with dynamic subdomain-based websho
 ### **Final Year Project: Real-Time Event Alert System**
 Built an **iOS app** that alerts users of incidents using **RSS feeds**, **crowdsourced data**, **Google Maps**, **Twilio**, and **Apple Push Notifications**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeem0199&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem0199&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact & Social Links
 
