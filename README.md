@@ -1,30 +1,63 @@
-# 💫 About Me:
-## Full Stack Developer | PHP | Laravel | CodeIgniter | Vue.js | AWS | Google Cloud
+# Hi there! I'm Nadeem 👋
 
-I am a skilled Backend-Focused Full Stack Developer with extensive experience in building and deploying web applications across diverse industries. My expertise spans **PHP frameworks** (Laravel, CodeIgniter) and **JavaScript libraries** (Vue.js), focusing on **end-to-end development** from conceptualization to production. I have successfully delivered full-featured applications like **ticket booking systems**, **CRM**, **ERP solutions**, and **E-commerce platforms**.
+## 🚀 About Me
+I'm a **Full-Stack Developer** with expertise in **PHP, Laravel, Vue.js, and DevOps**. Passionate about building high-performance web applications, API integrations, and cloud solutions. I thrive in creating scalable solutions and automating workflows to optimize business processes.
+---
 
-### Key Skills:
-- **Backend Development**: Strong expertise in **PHP** (Laravel, CodeIgniter) and **MySQL** databases.
-- **Frontend Development**: Proficient in **Vue.js**, **JavaScript**, **CSS(basic)**, **HTML**, and **Bootstrap** to create responsive and dynamic user interfaces.
-- **Version Control**: Expert in using **GIT** with platforms such as **GitHub**, **GitLab**, and **Bitbucket** for collaborative development and version management.
-- **API Integration**: Extensive experience integrating **3rd party APIs**, ensuring seamless functionality in applications.
-- **DevOps & Server Management**: Hands-on experience with **Linux server management**, using tools like **cPanel**, **Plesk**, and cloud platforms like **AWS** and **Google Cloud** to manage hosting environments.
-- **Full Development Lifecycle**: Adept in handling all stages of the software development lifecycle, from initial project specifications to deployment and post-production troubleshooting.
+## 🏆 Featured Projects
 
-### Projects:
-- Built and scaled **ticket booking systems** with payment integrations and real-time seat management.
-- Developed **CRM and ERP solutions** that enhanced workflow efficiency for businesses.
-- Delivered robust **e-commerce platforms**, integrating payment gateways, inventory management, and customer handling features.
+### **SAAS Application for Bol.com Investors**
+**Client:** Belgium-based Company | **Role:** Full-Stack Developer  
+A SAAS application for investors to analyze and manage their Bol.com businesses with product tracking, revenue monitoring, and profit calculation. Built with **Laravel, Vue.js, Selenium, and Stripe**.
+- Designed and developed the application from scratch using Laravel and Vue.js.
+- Created a Google Chrome extension and automated product tracking using Selenium.
+- Integrated Stripe for secure payment processing and subscription management.
+- Built key features like profit calculators and sales performance tracking tools.
+- Collaborated closely with the client to meet all business needs.
 
-### Continuous Learning:
-Passionate about adopting **new technologies** and stacks as the industry evolves. Always eager to learn and work with the latest tools in the tech ecosystem.
+### **Brincr - SAAS-Based Warehouse Management**
+**Client:** Dutch-Based Company | **Role:** Backend Developer  
+Worked on integrating multiple **e-commerce** platforms like **Shopify, Amazon, Magento, and CCVShop** into Brincr, a warehouse management system built with **CodeIgniter**.
+- Developed a custom CCVShop app to extend platform features.
+- Implemented Mollie payment gateway for seamless transaction handling.
+- Ensured robust and scalable API integrations to support SAAS growth.
+- Collaborated with the team to maintain high-quality code.
+- Contributed to improving warehouse management workflows.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadeem0199)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7784111)
+### **Tiqs - POS System with Raspberry Pi**
+**Client:** Belgium-Based Company  
+Developed a **POS system** using **Raspberry Pi**, integrating printer services and **Blackbox/Fiscal Data Module (FDM)** for tax compliance.
+- Developed a complete POS system with printer integration.
+- Integrated Blackbox/FDM to meet tax office requirements.
+- Created server-side APIs for communication and location management.
+- Enabled remote management for devices and automated setup using batch files.
 
-## 📞 Contact:
-- **Email**: nadeem0199@gmail.com
+### **Barrierah - Square API Integration**
+**Client:** UK-Based Client | **Role:** Backend Developer  
+Integrated **Square API** for fetching products, variations, taxes, and handling checkout processes. Also migrated domain to a custom server for better performance and scalability.
+
+### **Classified Website**
+Developed a platform for buying and selling, with dynamic subdomain-based webshops for shopkeepers.
+
+### **Final Year Project: Real-Time Event Alert System**
+Built an **iOS app** that alerts users of incidents using **RSS feeds**, **crowdsourced data**, **Google Maps**, **Twilio**, and **Apple Push Notifications**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeem0199&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem0199&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact & Social Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadeem0199/)
+- 💻 [GitHub](https://github.com/nadeem0199)
+- 📧 nadeem0199@gmail.com
 - **Phone**: +923214062327
 - **WhatsApp**: [Message me on WhatsApp](https://wa.me/+923214062327)
 
