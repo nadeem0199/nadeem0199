@@ -48,8 +48,8 @@ Built an **iOS app** that alerts users of incidents using **RSS feeds**, **crowd
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadeem0199/)
 - 💻 [GitHub](https://github.com/nadeem0199)
 - 📧 nadeem0199@gmail.com
-- **Phone**: +923214062327
-- **WhatsApp**: [Message me on WhatsApp](https://wa.me/+923214062327)
+- **Phone**: +923128881099
+- **WhatsApp**: [Message me on WhatsApp](https://wa.me/+923128881099)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
