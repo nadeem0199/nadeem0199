@@ -1,99 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Building%20Digital%20Architectures%20That%20Scale&fontSize=40&animation=fadeIn&fontAlignY=38&desc=M.%20Nadeem%20-%20Senior%20Software%20Engineer%20%26%20Architect&descAlignY=55&descAlign=50" alt="M. Nadeem Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=35495E&center=true&vCenter=true&width=600&lines=Building+Digital+Architectures+That+Scale;Senior+Software+Engineer+%26+Architect;Specialized+in+SaaS+%26+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nadeem0199)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nadeem0199)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923214062327)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:nadeem0199@gmail.com)
-
+  <a href="https://linkedin.com/in/nadeem0199">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nadeem0199">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/923214062327">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+  </a>
+  <a href="mailto:nadeem0199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-> **"I help founders and enterprises build high-performance software solutions."**
+> **"I transform complex business requirements into robust, production-grade software."**
 
-I am a **Senior Software Engineer & Architect** specializing in building scalable SaaS platforms, complex e-commerce ecosystems, and intelligent automation tools. With a deep focus on **Laravel, Vue.js, and Cloud Architectures**, I transform business requirements into robust, production-grade software.
+I am a **Team Lead & Senior Software Architect** with over **6+ years of experience** in designing and deploying scalable web applications. Currently leading development teams at **Orange Lynx IT**, I specialize in building **SaaS platforms**, **Logistics Systems**, and **Enterprise ERPs**. My expertise spans the entire software lifecycle, from architectural design to DevOps and deployment.
 
 ---
 
 ### 🛠 Technical Arsenal
 
-```json
-// nadeem@dev-server:~$ cat skills.json
-{
-  "backend": ["Laravel", "PHP", "Node.js", "Python", "CodeIgniter"],
-  "frontend": ["Vue.js", "Tailwind CSS", "React", "Inertia.js"],
-  "devops": ["AWS", "Docker", "CI/CD", "Linux Administration"],
-  "architecture": ["Microservices", "SaaS Multi-tenancy", "RESTful APIs"],
-  "specialties": ["Real-time Systems", "Payment Integrations", "AI/LLM Integration"]
-}
-```
+| **Domain** | **Technologies & Tools** |
+|:---|:---|
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Integrations** | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white) ![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat&logo=shopify&logoColor=white) ![Google Maps](https://img.shields.io/badge/-Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) |
+| **Specialized** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=socket.io&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 |:---|:---|:---|
-| **[Moveflex.nl](https://moveflex.nl)** | **"Uber-like" Logistics Platform**<br>Architected a real-time logistics platform featuring automated dispatching, live tracking, and complex dynamic pricing algorithms. | `Laravel` `Google Maps` `Real-time` |
-| **Bol.com Investor Dashboard** | **SaaS Analytics Platform**<br>A comprehensive dashboard for investors to track product performance, revenue, and profits on Bol.com. Includes automated data gathering via Selenium. | `Vue.js` `Laravel` `Selenium` |
-| **Brincr WMS** | **Warehouse Management System**<br>Enterprise-grade SaaS WMS integrating with Shopify, Amazon, and Magento. Handles inventory, shipping workflows, and payment processing. | `CodeIgniter` `MySQL` `APIs` |
-| **[Al-Hayat Healthcare](https://al-hayat.pk/)** | **Healthcare Management System**<br>Complete appointment and schedule management system for clinics. Features doctor profiles, availability tracking, and admin controls. | `Laravel` `MySQL` `Admin Panel` |
-
-<br>
-
-### 🧪 Specialized & Experimental Work
-
-<details>
-<summary><strong>View More Projects</strong></summary>
-<br>
-
-#### 🔌 Tiqs POS System
-> **IoT / Point of Sale**
-> A complete offline-first POS system running on **Raspberry Pi**. Integrated with a **Fiscal Data Module (FDM)** for tax compliance and supports remote server management.
-> *   **Stack:** `Raspberry Pi` `PHP` `Hardware Integration`
-
-#### 💳 Barrierah Integration
-> **Fintech / E-commerce**
-> High-performance integration of the **Square API** for synchronizing products, inventory, and payments across legacy systems.
-> *   **Stack:** `Square API` `E-commerce` `Legacy Migration`
-
-#### 🛒 Dynamic Classifieds
-> **Marketplace Platform**
-> A scalable classifieds engine that allows users to create their own branded webshops on dynamic subdomains (e.g., `user.platform.com`).
-> *   **Stack:** `Dynamic DNS` `Full Stack` `Multi-tenancy`
-
-#### 🔔 Event Alert System
-> **Real-time Mobile Backend**
-> Backend for an iOS alert app using RSS feeds and crowd-sourced data. Integrates **Twilio** for SMS and **Google Maps** for location-based alerts.
-> *   **Stack:** `Twilio` `Google Maps` `Mobile API`
-
-</details>
+| **[Moveflex.nl](https://moveflex.nl)** | **Logistics & Dispatch Platform**<br>Architected an "Uber-like" platform with real-time tracking, automated dispatching, and dynamic pricing. Handles complex logistics workflows efficiently. | `Laravel` `Google Maps` `Real-time` |
+| **Bol.com Investor SaaS** | **E-commerce Analytics**<br>A SaaS platform for investors to track Bol.com business performance. Features automated data gathering (Selenium), profit calculation, and revenue monitoring. | `Vue.js` `Laravel` `Selenium` |
+| **Brincr WMS** | **Warehouse Management System**<br>Enterprise-grade WMS integrating with Shopify, Amazon, Magento, and CCVShop. Streamlines inventory, shipping, and payment processing. | `CodeIgniter` `MySQL` `Rest APIs` |
+| **[Al-Hayat Healthcare](https://al-hayat.pk/)** | **Healthcare ERP**<br>Comprehensive hospital management system featuring doctor scheduling, patient appointments, and administrative dashboards. | `Laravel` `MySQL` `Admin Panel` |
+| **Tiqs POS System** | **IoT Point of Sale**<br>Offline-first POS system running on Raspberry Pi. Integrated with **Fiscal Data Module (FDM)** for tax compliance and remote management. | `Raspberry Pi` `PHP` `IoT` |
+| **Barrierah** | **Fintech Integration**<br>High-performance middleware connecting legacy systems with the **Square API** for synchronized inventory and payments. | `Square API` `Fintech` `Migration` |
 
 ---
 
-### ⚡ Launch Protocol
+### 💼 Professional Experience
 
-Ready to deploy your next project?
-
-```bash
-# Initialize collaboration
-./init_collaboration.sh
-
-# > [SUCCESS] Connection established.
-# > [INFO] Select communication channel:
-```
-
-- 📅 **[Schedule a Meeting](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Project+Discussion&details=Discuss+API+design&add=nadeem0199@gmail.com&conferenceDataVersion=1)**
-- 📧 **[Send Email](mailto:nadeem0199@gmail.com)**
-- 💬 **[WhatsApp Chat](https://wa.me/923214062327)**
+**Team Lead (Software Engineer)** @ [Orange Lynx IT](https://orangelynx.com) *(Mar 2019 – Present)*
+*   **Leadership**: Leading development teams to deliver high-quality SaaS solutions.
+*   **Architecture**: Designing scalable architectures for logistics, e-commerce, and healthcare sectors.
+*   **Integration**: Expertly integrating complex APIs (Visma, ExactOnline, API2Cart, Mollie, DHL, PostNL).
+*   **Innovation**: Pioneering IoT solutions with Raspberry Pi and AI-driven workflows.
 
 ---
+
+### 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeem0199&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="Nadeem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem0199&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://nadeem0199.github.io/resume.html"><strong>View Full Resume</strong></a> • 
+    <a href="https://nadeem0199.github.io/"><strong>Portfolio Website</strong></a>
+  </p>
   <p>© 2025 M. Nadeem | Architecting the Future</p>
 </div>
