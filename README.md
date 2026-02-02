@@ -29,35 +29,35 @@ Developing bespoke software solutions and real-time applications (tracking, disp
 
 ### **[Moveflex.nl](https://moveflex.nl)**
 **Stack:** Laravel, Google Maps, Real-time
-A comprehensive move management platform connecting moving companies with customers. Features real-time tracking, automated scheduling, and dynamic pricing algorithms.
+Architected an "Uber-like" logistics platform with real-time tracking, automated dispatching, and complex pricing algorithms. Built for high scalability and operational efficiency.
 
-### **[Justcreate.nl](https://justcreate.nl)**
-**Stack:** Custom CMS, SEO, Performance
-A high-performance digital agency portfolio and service platform. Built with a custom Content Management System focused on SEO optimization and core web vitals.
+### **Bol.com Investor Dashboard**
+**Stack:** Vue.js, Laravel, Selenium
+A comprehensive SaaS platform for investors to analyze Bol.com business performance. Features include product tracking, revenue monitoring, profit calculation, and automated Selenium-based data gathering.
 
-### **[Kringloop.nl](https://kringloop.nl)**
-**Stack:** High Traffic, Search, Optimization
-The leading platform for second-hand stores in the Netherlands. Optimized for high traffic with advanced search capabilities and location-based services.
+### **Brincr WMS**
+**Stack:** CodeIgniter, MySQL, APIs
+A SAAS-based warehouse management platform integrating major e-commerce platforms like Shopify, Amazon, and Magento. Streamlined operations with payment gateway integrations (Mollie) and custom workflows.
 
-### **DEXT - Amazon Product Research**
-**Stack:** Chrome Extension, API Integration, Real-time
-A powerful Chrome extension and SaaS platform for Amazon sellers. Provides real-time product data, sales estimation, and competitor analysis to empower data-driven decisions.
+### **[Al-Hayat Healthcare](https://al-hayat.pk/)**
+**Stack:** Laravel, MySQL, Admin Panel
+A complete healthcare appointment & schedule management system. Features dedicated service profiles, doctor availability tracking, and a comprehensive admin panel for clinic management. Trusted since 2015.
 
 ### **Tiqs POS System**
-**Stack:** Raspberry Pi, Offline-first, Fiscal
-A robust Point of Sale system built on Raspberry Pi. Features offline-first architecture, printer integration, and Blackbox/Fiscal Data Module (FDM) compliance for tax regulations.
+**Stack:** Raspberry Pi, PHP, IoT
+Complete POS system using Raspberry Pi with Fiscal Data Module (FDM) integration for tax compliance and remote server management.
 
 ### **Barrierah Integration**
-**Stack:** Square API, Legacy Modernization
-A complex integration project connecting legacy systems with the Square API. Handled product synchronization, inventory management, and seamless checkout experiences.
+**Stack:** Square API, E-commerce
+Seamless integration of Square API for products, inventory, and payments. Backend optimization and server migration for better performance.
 
 ### **Dynamic Classifieds**
-**Stack:** High Concurrency, Search
-A scalable classifieds platform supporting dynamic subdomains for shopkeepers, allowing them to manage their own inventory and sales within a unified marketplace.
+**Stack:** Dynamic DNS, Full Stack
+Marketplace platform allowing users to create personalized webshops on dynamic subdomains (user.platform.com).
 
 ### **Event Alert System**
 **Stack:** Twilio, Google Maps, Mobile API
-Real-time alert iOS app backend using RSS feeds and crowd-sourced data. Integrated Twilio for SMS notifications and Google Maps for location-based alerts.
+Real-time alert iOS app backend using RSS feeds and crowd-sourced data. Integrated Twilio and Google Maps for location-based notifications.
 
 ---
 
