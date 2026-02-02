@@ -65,8 +65,12 @@ I am a **Team Lead & Senior Software Architect** with over **6+ years of experie
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeem0199&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" alt="Nadeem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem0199&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+  <a href="https://github.com/nadeem0199">
+    <img src="https://github-readme-stats.vercel.app/api?username=nadeem0199&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nadeem0199">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem0199&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
