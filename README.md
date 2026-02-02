@@ -1,97 +1,99 @@
-# Hi there! I'm Nadeem 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Building%20Digital%20Architectures%20That%20Scale&fontSize=40&animation=fadeIn&fontAlignY=38&desc=M.%20Nadeem%20-%20Senior%20Software%20Engineer%20%26%20Architect&descAlignY=55&descAlign=50" alt="M. Nadeem Banner" />
+</div>
 
-## Senior Software Engineer & Architect
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nadeem0199)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nadeem0199)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923214062327)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:nadeem0199@gmail.com)
 
-I am a **Senior Software Engineer & Architect** with deep expertise in **Laravel, Vue.js, and Cloud Architectures**. I specialize in building high-performance SaaS platforms, scalable web applications, and integrating **Artificial Intelligence** into business workflows. My focus is on creating robust, scalable solutions that drive business growth through automation and intelligent design.
-
----
-
-## 🛠 What I Do
-
-### **SaaS Development**
-End-to-end development of scalable Software-as-a-Service platforms. I handle everything from multi-tenant architecture and subscription management to secure payment processing.
-
-### **E-Commerce Ecosystems**
-Building complex e-commerce solutions, including headless storefronts and deep integrations with ERPs and PIM systems.
-
-### **AI Integration & Automation**
-Empowering applications with **Artificial Intelligence**. I integrate **OpenAI/Gemini APIs**, build custom **RAG pipelines**, and implement intelligent chatbots to automate customer support and data analysis.
-
-### **ERP & Automation**
-Digitizing business workflows with custom ERP solutions and Warehouse Management Systems (WMS) to optimize operational efficiency.
-
-### **Custom Software & Real-time Apps**
-Developing bespoke software solutions and real-time applications (tracking, dispatching) tailored to specific business needs.
-
----
-
-## 🏆 Featured Projects
-
-### **[Moveflex.nl](https://moveflex.nl)**
-**Stack:** Laravel, Google Maps, Real-time
-Architected an "Uber-like" logistics platform with real-time tracking, automated dispatching, and complex pricing algorithms. Built for high scalability and operational efficiency.
-
-### **Bol.com Investor Dashboard**
-**Stack:** Vue.js, Laravel, Selenium
-A comprehensive SaaS platform for investors to analyze Bol.com business performance. Features include product tracking, revenue monitoring, profit calculation, and automated Selenium-based data gathering.
-
-### **Brincr WMS**
-**Stack:** CodeIgniter, MySQL, APIs
-A SAAS-based warehouse management platform integrating major e-commerce platforms like Shopify, Amazon, and Magento. Streamlined operations with payment gateway integrations (Mollie) and custom workflows.
-
-### **[Al-Hayat Healthcare](https://al-hayat.pk/)**
-**Stack:** Laravel, MySQL, Admin Panel
-A complete healthcare appointment & schedule management system. Features dedicated service profiles, doctor availability tracking, and a comprehensive admin panel for clinic management. Trusted since 2015.
-
-### **Tiqs POS System**
-**Stack:** Raspberry Pi, PHP, IoT
-Complete POS system using Raspberry Pi with Fiscal Data Module (FDM) integration for tax compliance and remote server management.
-
-### **Barrierah Integration**
-**Stack:** Square API, E-commerce
-Seamless integration of Square API for products, inventory, and payments. Backend optimization and server migration for better performance.
-
-### **Dynamic Classifieds**
-**Stack:** Dynamic DNS, Full Stack
-Marketplace platform allowing users to create personalized webshops on dynamic subdomains (user.platform.com).
-
-### **Event Alert System**
-**Stack:** Twilio, Google Maps, Mobile API
-Real-time alert iOS app backend using RSS feeds and crowd-sourced data. Integrated Twilio and Google Maps for location-based notifications.
-
----
-
-## 💻 Tech Stack
-
-### **Backend**
-`Laravel` `Livewire` `Filament` `PHP` `Node.js`
-
-### **Frontend**
-`Vue.js` `Inertia` `Blade` `Tailwind CSS` `JavaScript`
-
-### **Cloud & DevOps**
-`AWS` `Docker` `Google Cloud` `CI/CD`
-
-### **AI & Advanced**
-`LLM Integration` `RAG Pipelines` `Web Scraping` `Chrome Extensions`
-
-<div align="left">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
 
-## 📫 Contact
+### 👨‍💻 About Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/nadeem0199)
-- 💻 [GitHub](https://github.com/nadeem0199)
-- 💬 [WhatsApp](https://wa.me/923214062327?text=Hi%20Nadeem,%20I%20would%20like%20to%20discuss%20a%20project)
-- 📧 [nadeem0199@gmail.com](mailto:nadeem0199@gmail.com)
+> **"I help founders and enterprises build high-performance software solutions."**
+
+I am a **Senior Software Engineer & Architect** specializing in building scalable SaaS platforms, complex e-commerce ecosystems, and intelligent automation tools. With a deep focus on **Laravel, Vue.js, and Cloud Architectures**, I transform business requirements into robust, production-grade software.
+
+---
+
+### 🛠 Technical Arsenal
+
+```json
+// nadeem@dev-server:~$ cat skills.json
+{
+  "backend": ["Laravel", "PHP", "Node.js", "Python", "CodeIgniter"],
+  "frontend": ["Vue.js", "Tailwind CSS", "React", "Inertia.js"],
+  "devops": ["AWS", "Docker", "CI/CD", "Linux Administration"],
+  "architecture": ["Microservices", "SaaS Multi-tenancy", "RESTful APIs"],
+  "specialties": ["Real-time Systems", "Payment Integrations", "AI/LLM Integration"]
+}
+```
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **[Moveflex.nl](https://moveflex.nl)** | **"Uber-like" Logistics Platform**<br>Architected a real-time logistics platform featuring automated dispatching, live tracking, and complex dynamic pricing algorithms. | `Laravel` `Google Maps` `Real-time` |
+| **Bol.com Investor Dashboard** | **SaaS Analytics Platform**<br>A comprehensive dashboard for investors to track product performance, revenue, and profits on Bol.com. Includes automated data gathering via Selenium. | `Vue.js` `Laravel` `Selenium` |
+| **Brincr WMS** | **Warehouse Management System**<br>Enterprise-grade SaaS WMS integrating with Shopify, Amazon, and Magento. Handles inventory, shipping workflows, and payment processing. | `CodeIgniter` `MySQL` `APIs` |
+| **[Al-Hayat Healthcare](https://al-hayat.pk/)** | **Healthcare Management System**<br>Complete appointment and schedule management system for clinics. Features doctor profiles, availability tracking, and admin controls. | `Laravel` `MySQL` `Admin Panel` |
+
+<br>
+
+### 🧪 Specialized & Experimental Work
+
+<details>
+<summary><strong>View More Projects</strong></summary>
+<br>
+
+#### 🔌 Tiqs POS System
+> **IoT / Point of Sale**
+> A complete offline-first POS system running on **Raspberry Pi**. Integrated with a **Fiscal Data Module (FDM)** for tax compliance and supports remote server management.
+> *   **Stack:** `Raspberry Pi` `PHP` `Hardware Integration`
+
+#### 💳 Barrierah Integration
+> **Fintech / E-commerce**
+> High-performance integration of the **Square API** for synchronizing products, inventory, and payments across legacy systems.
+> *   **Stack:** `Square API` `E-commerce` `Legacy Migration`
+
+#### 🛒 Dynamic Classifieds
+> **Marketplace Platform**
+> A scalable classifieds engine that allows users to create their own branded webshops on dynamic subdomains (e.g., `user.platform.com`).
+> *   **Stack:** `Dynamic DNS` `Full Stack` `Multi-tenancy`
+
+#### 🔔 Event Alert System
+> **Real-time Mobile Backend**
+> Backend for an iOS alert app using RSS feeds and crowd-sourced data. Integrates **Twilio** for SMS and **Google Maps** for location-based alerts.
+> *   **Stack:** `Twilio` `Google Maps` `Mobile API`
+
+</details>
+
+---
+
+### ⚡ Launch Protocol
+
+Ready to deploy your next project?
+
+```bash
+# Initialize collaboration
+./init_collaboration.sh
+
+# > [SUCCESS] Connection established.
+# > [INFO] Select communication channel:
+```
+
+- 📅 **[Schedule a Meeting](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Project+Discussion&details=Discuss+API+design&add=nadeem0199@gmail.com&conferenceDataVersion=1)**
+- 📧 **[Send Email](mailto:nadeem0199@gmail.com)**
+- 💬 **[WhatsApp Chat](https://wa.me/923214062327)**
+
+---
+<div align="center">
+  <p>© 2025 M. Nadeem | Architecting the Future</p>
+</div>
