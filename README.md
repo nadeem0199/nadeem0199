@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=&fontSize=90" width="100%"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=&fontSize=90" width="100%"/> -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpY2t5YW1kYm5vazc1ZGQ1ODB2amowaGRvM2tob25ud3VicWJjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif" width="100%"/>
   <a href="https://github.com/nadeem0199">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=35495E&center=true&vCenter=true&width=900&lines=Building+Digital+Architectures+That+Scale;Senior+Software+Engineer+%26+Architect;Specialized+in+SaaS+%26+Cloud+Solutions" alt="Typing SVG" />
   </a>
