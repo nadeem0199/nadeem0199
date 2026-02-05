@@ -206,5 +206,5 @@ I am always open to discussing ambitious projects, architectural challenges, or 
 </div>
 <br>
 <div align="center">
-  <p>© 2025 M. Nadeem | <a href="https://nadeem0199.github.io/"><strong>Portfolio</strong></a> | <a href="https://nadeem0199.github.io/resume.html"><strong>Resume</strong></a></p>
+  <p>© 2026 M. Nadeem | <a href="https://nadeem0199.github.io/"><strong>Portfolio</strong></a> | <a href="https://nadeem0199.github.io/resume.html"><strong>Resume</strong></a></p>
 </div>
