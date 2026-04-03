@@ -35,7 +35,7 @@
 
 > **"I transform complex business requirements into robust, production-grade software."**
 
-I am a **Team Lead & Senior Software Architect** with over **6+ years of experience**. Currently leading development teams at **Orange Lynx IT**, I specialize in designing scalable **SaaS platforms**, **Logistics Systems**, and **Enterprise ERPs**.
+I am a **Team Lead & Senior Software Architect** with over **10+ years of experience**. Currently leading development teams at **Orange Lynx IT**, I specialize in designing scalable **SaaS platforms**, **Logistics Systems**, and **Enterprise ERPs**.
 
 My expertise lies in **Backend-Focused Full Stack Development**, where I combine clean code architecture with pragmatic problem-solving. I have a proven track record of handling the entire software lifecycle—from drafting technical specifications to deploying production-ready environments on **AWS** and **Docker**.
 
